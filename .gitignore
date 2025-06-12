@@ -1,0 +1,19 @@
+# Ignore everything by default
+*
+
+# Exception: Keep directory structure for navigation
+!*/
+
+# Exception: Keep documentation files
+!*.md
+!README.md
+
+# Exception: Keep threat intelligence files
+!*.txt
+!blocklist.txt
+
+# Exception: Keep license file
+!LICENSE
+
+# Exception: Keep .gitignore file
+!.gitignore
