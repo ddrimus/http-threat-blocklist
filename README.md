@@ -3,8 +3,8 @@
 This repository provides a **daily-updated blocklist** of IP addresses involved in malicious HTTP attacks targeting servers. Designed to protect both your systems and mine, the blocklist defends against common HTTP-based threats, including **probing**, **exploit attempts**, and **malicious bots**.
 
 [![Threat Level](https://img.shields.io/badge/Threat%20Level-LOW-green)](.)
-[![IPs Blocked](https://img.shields.io/badge/IPs%20Blocked-0-blue)](.)
-[![Last Updated](https://img.shields.io/badge/Updated-2025--06--10-brightgreen)](.)
+[![IPs Blocked](https://img.shields.io/badge/IPs%20Blocked-19-blue)](.)
+[![Last Updated](https://img.shields.io/badge/Updated-2025--06--13-brightgreen)](.)
 
 ## 🔍 About This List
 
@@ -19,9 +19,9 @@ This is my **private blocklist**, built from traffic that actually made it throu
 ║           THREAT OVERVIEW            ║
 ╠══════════════════════════════════════╣
 ║ Status: LOW                          ║
-║ Active IPs: 0                        ║
-║ Total Reports: 0                     ║
-║ Unique Sources: 0                    ║
+║ Active IPs: 19                       ║
+║ Total Reports: 27                    ║
+║ Unique Sources: 19                   ║
 ╚══════════════════════════════════════╝
 ```
 
@@ -32,7 +32,17 @@ This is my **private blocklist**, built from traffic that actually made it throu
 ```
 🔥 Most Common Attack Types
 ──────────────────────────
-No data available
+
+     Malicious User Agents ▏   10 ███████████████████████████████████ ( 37.0%)
+      HTTP Service Probing ▏    6 █████████████████████ ( 22.2%)
+     Sensitive File Access ▏    3 ██████████ ( 11.1%)
+     CVE-2017-9841 Exploit ▏    2 ███████ (  7.4%)
+   ThinkPHP CVE-2018-20062 ▏    1 ███ (  3.7%)
+        WordPress Scanning ▏    1 ███ (  3.7%)
+       CVE Exploit Probing ▏    1 ███ (  3.7%)
+Non-Static Content Crawler ▏    1 ███ (  3.7%)
+  Backdoor Access Attempts ▏    1 ███ (  3.7%)
+   Admin Interface Probing ▏    1 ███ (  3.7%)
 ```
 
 ## 🌍 Geographic Distribution
@@ -40,7 +50,15 @@ No data available
 ```
 🗺️ Top Source Countries
 ───────────────────────
-No data available
+
+ United States ▏    9 ███████████████████████████████████ ( 33.3%)
+       Ireland ▏    5 ███████████████████ ( 18.5%)
+     Singapore ▏    4 ███████████████ ( 14.8%)
+United Kingdom ▏    4 ███████████████ ( 14.8%)
+       Germany ▏    2 ███████ (  7.4%)
+       Vietnam ▏    1 ███ (  3.7%)
+         India ▏    1 ███ (  3.7%)
+     Australia ▏    1 ███ (  3.7%)
 ```
 
 ## 📊 Activity Timeline
@@ -48,7 +66,8 @@ No data available
 ```
 📅 Recent Activity (7 days)
 ──────────────────────────
-No data available
+
+2025-06-12 ▏   27 ███████████████████████████████████ (100.0%)
 ```
 
 ## 🔒 Security Notes
