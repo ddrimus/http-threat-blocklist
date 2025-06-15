@@ -3,7 +3,7 @@
 This repository provides a **daily-updated blocklist** of IP addresses involved in malicious HTTP attacks targeting servers. Designed to protect both your systems and mine, the blocklist defends against common HTTP-based threats, including **probing**, **exploit attempts**, and **malicious bots**.
 
 [![Threat Level](https://img.shields.io/badge/Threat%20Level-LOW-green)](.)
-[![IPs Blocked](https://img.shields.io/badge/IPs%20Blocked-27-blue)](.)
+[![IPs Blocked](https://img.shields.io/badge/IPs%20Blocked-51-blue)](.)
 [![Last Updated](https://img.shields.io/badge/Updated-2025--06--14-brightgreen)](.)
 
 ## 🔍 About This List
@@ -19,9 +19,9 @@ This is my **private blocklist**, built from traffic that actually made it throu
 ║           THREAT OVERVIEW            ║
 ╠══════════════════════════════════════╣
 ║ Status: LOW                          ║
-║ Active IPs: 27                       ║
-║ Total Reports: 37                    ║
-║ Unique Sources: 27                   ║
+║ Active IPs: 51                       ║
+║ Total Reports: 83                    ║
+║ Unique Sources: 51                   ║
 ╚══════════════════════════════════════╝
 ```
 
@@ -33,17 +33,18 @@ This is my **private blocklist**, built from traffic that actually made it throu
 🔥 Most Common Attack Types
 ──────────────────────────
 
-     Malicious User Agents ▏   12 ███████████████████████████████████ ( 32.4%)
-      HTTP Service Probing ▏   10 █████████████████████████████ ( 27.0%)
-     Sensitive File Access ▏    3 ████████ (  8.1%)
-       CVE Exploit Probing ▏    3 ████████ (  8.1%)
-     CVE-2017-9841 Exploit ▏    3 ████████ (  8.1%)
-   ThinkPHP CVE-2018-20062 ▏    1 ██ (  2.7%)
-               Netgear_Rce ▏    1 ██ (  2.7%)
-        WordPress Scanning ▏    1 ██ (  2.7%)
-Non-Static Content Crawler ▏    1 ██ (  2.7%)
-  Backdoor Access Attempts ▏    1 ██ (  2.7%)
-   Admin Interface Probing ▏    1 ██ (  2.7%)
+     Malicious User Agents ▏   24 ███████████████████████████████████ ( 28.9%)
+      HTTP Service Probing ▏   23 █████████████████████████████████ ( 27.7%)
+     CVE-2017-9841 Exploit ▏    8 ███████████ (  9.6%)
+       CVE Exploit Probing ▏    6 ████████ (  7.2%)
+   ThinkPHP CVE-2018-20062 ▏    4 █████ (  4.8%)
+     Sensitive File Access ▏    4 █████ (  4.8%)
+        WordPress Scanning ▏    3 ████ (  3.6%)
+Non-Static Content Crawler ▏    3 ████ (  3.6%)
+  Backdoor Access Attempts ▏    3 ████ (  3.6%)
+       Jira_Cve 2021 26086 ▏    2 ██ (  2.4%)
+   Admin Interface Probing ▏    2 ██ (  2.4%)
+               Netgear_Rce ▏    1 █ (  1.2%)
 ```
 
 ## 🌍 Geographic Distribution
@@ -52,16 +53,16 @@ Non-Static Content Crawler ▏    1 ██ (  2.7%)
 🗺️ Top Source Countries
 ───────────────────────
 
- United States ▏   12 ███████████████████████████████████ ( 32.4%)
-     Singapore ▏    5 ██████████████ ( 13.5%)
-       Ireland ▏    5 ██████████████ ( 13.5%)
-United Kingdom ▏    5 ██████████████ ( 13.5%)
-         India ▏    3 ████████ (  8.1%)
-       Vietnam ▏    2 █████ (  5.4%)
-       Germany ▏    2 █████ (  5.4%)
-            KH ▏    1 ██ (  2.7%)
-         Japan ▏    1 ██ (  2.7%)
-     Australia ▏    1 ██ (  2.7%)
+ United States ▏   23 ███████████████████████████████████ ( 28.7%)
+       Ireland ▏   14 █████████████████████ ( 17.5%)
+     Singapore ▏    9 █████████████ ( 11.2%)
+United Kingdom ▏    9 █████████████ ( 11.2%)
+         China ▏    6 █████████ (  7.5%)
+         India ▏    5 ███████ (  6.2%)
+      Bulgaria ▏    5 ███████ (  6.2%)
+       Vietnam ▏    4 ██████ (  5.0%)
+       Germany ▏    3 ████ (  3.8%)
+   Netherlands ▏    2 ███ (  2.5%)
 ```
 
 ## 📊 Activity Timeline
@@ -70,9 +71,9 @@ United Kingdom ▏    5 ██████████████ ( 13.5%)
 📅 Recent Activity (7 days)
 ──────────────────────────
 
-2025-06-12 ▏   27 ███████████████████████████████████ ( 73.0%)
-2025-06-13 ▏    9 ███████████ ( 24.3%)
-2025-06-14 ▏    1 █ (  2.7%)
+2025-06-12 ▏   27 ████████████████████ ( 32.5%)
+2025-06-13 ▏    9 ██████ ( 10.8%)
+2025-06-14 ▏   47 ███████████████████████████████████ ( 56.6%)
 ```
 
 ## 🔒 Security Notes
