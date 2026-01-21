@@ -3,8 +3,8 @@
 This repository provides a **daily-updated blocklist** of IP addresses involved in malicious HTTP attacks targeting servers. Designed to protect both your systems and mine, the blocklist defends against common HTTP-based threats, including **probing**, **exploit attempts**, and **malicious bots**.
 
 [![Threat Level](https://img.shields.io/badge/Threat%20Level-HIGH-red)](.)
-[![IPs Blocked](https://img.shields.io/badge/IPs%20Blocked-393-blue)](.)
-[![Last Updated](https://img.shields.io/badge/Updated-2026--01--20-brightgreen)](.)
+[![IPs Blocked](https://img.shields.io/badge/IPs%20Blocked-379-blue)](.)
+[![Last Updated](https://img.shields.io/badge/Updated-2026--01--21-brightgreen)](.)
 
 ## 🔍 About This List
 
@@ -19,7 +19,7 @@ This is my **private blocklist**, built from traffic that actually made it throu
 |           THREAT OVERVIEW            |
 +--------------------------------------+
 | Status: HIGH                         |
-| Active IPs: 393                      |
+| Active IPs: 379                      |
 | Total Reports: 10,859                |
 | Unique Sources: 2,973                |
 +--------------------------------------+
@@ -74,11 +74,10 @@ United Kingdom ▏ 1693 █████████████████ ( 18
 📅 Recent Activity (7 days)
 ──────────────────────────
 
-2026-01-13 ▏   28 ████████████████ ( 18.2%)
-2026-01-14 ▏   24 ██████████████ ( 15.6%)
-2026-01-15 ▏   60 ███████████████████████████████████ ( 39.0%)
-2026-01-16 ▏   30 █████████████████ ( 19.5%)
-2026-01-17 ▏   12 ███████ (  7.8%)
+2026-01-14 ▏   22 ████████████ ( 17.7%)
+2026-01-15 ▏   60 ███████████████████████████████████ ( 48.4%)
+2026-01-16 ▏   30 █████████████████ ( 24.2%)
+2026-01-17 ▏   12 ███████ (  9.7%)
 ```
 
 ## 🔒 Security Notes
