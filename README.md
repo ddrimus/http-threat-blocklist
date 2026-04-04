@@ -3,8 +3,8 @@
 This repository provides a **daily-updated blocklist** of IP addresses involved in malicious HTTP attacks targeting servers. Designed to protect both your systems and mine, the blocklist defends against common HTTP-based threats, including **probing**, **exploit attempts**, and **malicious bots**.
 
 [![Threat Level](https://img.shields.io/badge/Threat%20Level-HIGH-red)](.)
-[![IPs Blocked](https://img.shields.io/badge/IPs%20Blocked-411-blue)](.)
-[![Last Updated](https://img.shields.io/badge/Updated-2026--04--03-brightgreen)](.)
+[![IPs Blocked](https://img.shields.io/badge/IPs%20Blocked-410-blue)](.)
+[![Last Updated](https://img.shields.io/badge/Updated-2026--04--04-brightgreen)](.)
 
 ## 🔍 About This List
 
@@ -19,9 +19,9 @@ This is my **private blocklist**, built from traffic that actually made it throu
 |           THREAT OVERVIEW            |
 +--------------------------------------+
 | Status: HIGH                         |
-| Active IPs: 411                      |
-| Total Reports: 13,623                |
-| Unique Sources: 3,604                |
+| Active IPs: 410                      |
+| Total Reports: 13,658                |
+| Unique Sources: 3,612                |
 +--------------------------------------+
 ```
 
@@ -33,14 +33,14 @@ This is my **private blocklist**, built from traffic that actually made it throu
 🔥 Most Common Attack Types
 ──────────────────────────
 
-                HTTP Probing ▏ 4039 ███████████████████████████████████ ( 29.8%)
-         HTTP Bad User Agent ▏ 2680 ███████████████████████ ( 19.8%)
-HTTP Admin Interface Probing ▏ 1692 ██████████████ ( 12.5%)
+                HTTP Probing ▏ 4048 ███████████████████████████████████ ( 29.8%)
+         HTTP Bad User Agent ▏ 2685 ███████████████████████ ( 19.8%)
+HTTP Admin Interface Probing ▏ 1698 ██████████████ ( 12.5%)
         HTTP Sensitive Files ▏ 1306 ███████████ (  9.6%)
-         HTTP Wordpress Scan ▏ 1159 ██████████ (  8.6%)
-      HTTP Crawl Non Statics ▏  664 █████ (  4.9%)
-     HTTP Backdoors Attempts ▏  561 ████ (  4.1%)
-            HTTP CVE Probing ▏  469 ████ (  3.5%)
+         HTTP Wordpress Scan ▏ 1165 ██████████ (  8.6%)
+      HTTP Crawl Non Statics ▏  669 █████ (  4.9%)
+     HTTP Backdoors Attempts ▏  564 ████ (  4.2%)
+            HTTP CVE Probing ▏  470 ████ (  3.5%)
        CVE-2017-9841 Exploit ▏  440 ███ (  3.2%)
    CVE-2018-20062 (Thinkphp) ▏  144 █ (  1.1%)
       CVE-2022-41082 Exploit ▏  143 █ (  1.1%)
@@ -56,15 +56,15 @@ HTTP Admin Interface Probing ▏ 1692 ██████████████
 🗺️ Top Source Countries
 ───────────────────────
 
- United States ▏ 4185 ███████████████████████████████████ ( 36.8%)
+ United States ▏ 4196 ███████████████████████████████████ ( 36.9%)
 United Kingdom ▏ 1759 ██████████████ ( 15.5%)
        Ireland ▏ 1181 █████████ ( 10.4%)
    Netherlands ▏  822 ██████ (  7.2%)
-        France ▏  691 █████ (  6.1%)
-         Japan ▏  677 █████ (  6.0%)
-     Singapore ▏  676 █████ (  5.9%)
+        France ▏  692 █████ (  6.1%)
+     Singapore ▏  677 █████ (  5.9%)
+         Japan ▏  677 █████ (  5.9%)
        Germany ▏  491 ████ (  4.3%)
-        Canada ▏  451 ███ (  4.0%)
+        Canada ▏  456 ███ (  4.0%)
      Australia ▏  434 ███ (  3.8%)
 ```
 
@@ -74,14 +74,13 @@ United Kingdom ▏ 1759 ██████████████ ( 15.5%)
 📅 Recent Activity (7 days)
 ──────────────────────────
 
-2026-03-27 ▏   46 ████████████████████████████ ( 16.5%)
-2026-03-28 ▏   36 ██████████████████████ ( 12.9%)
-2026-03-29 ▏   26 ███████████████ (  9.4%)
-2026-03-30 ▏   38 ███████████████████████ ( 13.7%)
-2026-03-31 ▏   35 █████████████████████ ( 12.6%)
-2026-04-01 ▏   36 ██████████████████████ ( 12.9%)
-2026-04-02 ▏   57 ███████████████████████████████████ ( 20.5%)
-2026-04-03 ▏    4 ██ (  1.4%)
+2026-03-28 ▏   31 ███████████████████ ( 11.8%)
+2026-03-29 ▏   26 ███████████████ (  9.9%)
+2026-03-30 ▏   38 ███████████████████████ ( 14.5%)
+2026-03-31 ▏   35 █████████████████████ ( 13.4%)
+2026-04-01 ▏   36 ██████████████████████ ( 13.7%)
+2026-04-02 ▏   57 ███████████████████████████████████ ( 21.8%)
+2026-04-03 ▏   39 ███████████████████████ ( 14.9%)
 ```
 
 ## 🔒 Security Notes
