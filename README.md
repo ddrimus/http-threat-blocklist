@@ -3,8 +3,8 @@
 This repository provides a **daily-updated blocklist** of IP addresses involved in malicious HTTP attacks targeting servers. Designed to protect both your systems and mine, the blocklist defends against common HTTP-based threats, including **probing**, **exploit attempts**, and **malicious bots**.
 
 [![Threat Level](https://img.shields.io/badge/Threat%20Level-HIGH-red)](.)
-[![IPs Blocked](https://img.shields.io/badge/IPs%20Blocked-536-blue)](.)
-[![Last Updated](https://img.shields.io/badge/Updated-2026--06--04-brightgreen)](.)
+[![IPs Blocked](https://img.shields.io/badge/IPs%20Blocked-545-blue)](.)
+[![Last Updated](https://img.shields.io/badge/Updated-2026--06--05-brightgreen)](.)
 
 ## 🔍 About This List
 
@@ -19,9 +19,9 @@ This is my **private blocklist**, built from traffic that actually made it throu
 |           THREAT OVERVIEW            |
 +--------------------------------------+
 | Status: HIGH                         |
-| Active IPs: 536                      |
-| Total Reports: 16,982                |
-| Unique Sources: 4,508                |
+| Active IPs: 545                      |
+| Total Reports: 17,044                |
+| Unique Sources: 4,527                |
 +--------------------------------------+
 ```
 
@@ -33,18 +33,18 @@ This is my **private blocklist**, built from traffic that actually made it throu
 🔥 Most Common Attack Types
 ──────────────────────────
 
-                HTTP Probing ▏ 5044 ███████████████████████████████████ ( 29.9%)
-         HTTP Bad User Agent ▏ 3109 █████████████████████ ( 18.4%)
-HTTP Admin Interface Probing ▏ 2204 ███████████████ ( 13.1%)
-        HTTP Sensitive Files ▏ 1723 ███████████ ( 10.2%)
-         HTTP Wordpress Scan ▏ 1463 ██████████ (  8.7%)
-      HTTP Crawl Non Statics ▏  944 ██████ (  5.6%)
+                HTTP Probing ▏ 5058 ███████████████████████████████████ ( 29.8%)
+         HTTP Bad User Agent ▏ 3125 █████████████████████ ( 18.4%)
+HTTP Admin Interface Probing ▏ 2211 ███████████████ ( 13.0%)
+        HTTP Sensitive Files ▏ 1733 ███████████ ( 10.2%)
+         HTTP Wordpress Scan ▏ 1463 ██████████ (  8.6%)
+      HTTP Crawl Non Statics ▏  949 ██████ (  5.6%)
      HTTP Backdoors Attempts ▏  682 ████ (  4.0%)
-            HTTP CVE Probing ▏  620 ████ (  3.7%)
+            HTTP CVE Probing ▏  625 ████ (  3.7%)
        CVE-2017-9841 Exploit ▏  455 ███ (  2.7%)
-      CVE-2022-41082 Exploit ▏  185 █ (  1.1%)
+      CVE-2022-41082 Exploit ▏  187 █ (  1.1%)
    CVE-2018-20062 (Thinkphp) ▏  146 █ (  0.9%)
-                 Netgear RCE ▏  132 █ (  0.8%)
+                 Netgear RCE ▏  135 █ (  0.8%)
        CVE-2021-26086 (Jira) ▏   68 █ (  0.4%)
  HTTP Path Traversal Probing ▏   61 █ (  0.4%)
       CVE-2019-18935 Exploit ▏   52 █ (  0.3%)
@@ -56,15 +56,15 @@ HTTP Admin Interface Probing ▏ 2204 ██████████████
 🗺️ Top Source Countries
 ───────────────────────
 
- United States ▏ 5475 ███████████████████████████████████ ( 39.5%)
-United Kingdom ▏ 1795 ███████████ ( 12.9%)
+ United States ▏ 5513 ███████████████████████████████████ ( 39.6%)
+United Kingdom ▏ 1796 ███████████ ( 12.9%)
        Ireland ▏ 1280 ████████ (  9.2%)
-   Netherlands ▏ 1038 ██████ (  7.5%)
-        France ▏  909 █████ (  6.6%)
-     Singapore ▏  775 ████ (  5.6%)
+   Netherlands ▏ 1039 ██████ (  7.5%)
+        France ▏  910 █████ (  6.5%)
+     Singapore ▏  776 ████ (  5.6%)
         Canada ▏  747 ████ (  5.4%)
-         Japan ▏  719 ████ (  5.2%)
-       Germany ▏  628 ████ (  4.5%)
+         Japan ▏  722 ████ (  5.2%)
+       Germany ▏  628 ███ (  4.5%)
      Australia ▏  511 ███ (  3.7%)
 ```
 
@@ -74,13 +74,14 @@ United Kingdom ▏ 1795 ███████████ ( 12.9%)
 📅 Recent Activity (7 days)
 ──────────────────────────
 
-2026-05-28 ▏   42 ████████████████ ( 11.8%)
-2026-05-29 ▏   87 ███████████████████████████████████ ( 24.4%)
-2026-05-30 ▏   55 ██████████████████████ ( 15.4%)
-2026-05-31 ▏   42 ████████████████ ( 11.8%)
-2026-06-01 ▏   42 ████████████████ ( 11.8%)
-2026-06-02 ▏   35 ██████████████ (  9.8%)
-2026-06-03 ▏   54 █████████████████████ ( 15.1%)
+2026-05-29 ▏   82 ███████████████████████████████████ ( 22.0%)
+2026-05-30 ▏   55 ███████████████████████ ( 14.8%)
+2026-05-31 ▏   42 █████████████████ ( 11.3%)
+2026-06-01 ▏   42 █████████████████ ( 11.3%)
+2026-06-02 ▏   35 ██████████████ (  9.4%)
+2026-06-03 ▏   54 ███████████████████████ ( 14.5%)
+2026-06-04 ▏   55 ███████████████████████ ( 14.8%)
+2026-06-05 ▏    7 ██ (  1.9%)
 ```
 
 ## 🔒 Security Notes
