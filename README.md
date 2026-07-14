@@ -3,8 +3,8 @@
 This repository provides a **daily-updated blocklist** of IP addresses involved in malicious HTTP attacks targeting servers. Designed to protect both your systems and mine, the blocklist defends against common HTTP-based threats, including **probing**, **exploit attempts**, and **malicious bots**.
 
 [![Threat Level](https://img.shields.io/badge/Threat%20Level-HIGH-red)](.)
-[![IPs Blocked](https://img.shields.io/badge/IPs%20Blocked-321-blue)](.)
-[![Last Updated](https://img.shields.io/badge/Updated-2026--07--13-brightgreen)](.)
+[![IPs Blocked](https://img.shields.io/badge/IPs%20Blocked-309-blue)](.)
+[![Last Updated](https://img.shields.io/badge/Updated-2026--07--14-brightgreen)](.)
 
 ## 🔍 About This List
 
@@ -19,9 +19,9 @@ This is my **private blocklist**, built from traffic that actually made it throu
 |           THREAT OVERVIEW            |
 +--------------------------------------+
 | Status: HIGH                         |
-| Active IPs: 321                      |
-| Total Reports: 18,199                |
-| Unique Sources: 4,814                |
+| Active IPs: 309                      |
+| Total Reports: 18,214                |
+| Unique Sources: 4,817                |
 +--------------------------------------+
 ```
 
@@ -33,10 +33,10 @@ This is my **private blocklist**, built from traffic that actually made it throu
 🔥 Most Common Attack Types
 ──────────────────────────
 
-                HTTP Probing ▏ 5447 ███████████████████████████████████ ( 30.1%)
-         HTTP Bad User Agent ▏ 3298 █████████████████████ ( 18.2%)
-HTTP Admin Interface Probing ▏ 2328 ██████████████ ( 12.9%)
-        HTTP Sensitive Files ▏ 1958 ████████████ ( 10.8%)
+                HTTP Probing ▏ 5454 ███████████████████████████████████ ( 30.1%)
+         HTTP Bad User Agent ▏ 3300 █████████████████████ ( 18.2%)
+HTTP Admin Interface Probing ▏ 2329 ██████████████ ( 12.9%)
+        HTTP Sensitive Files ▏ 1963 ████████████ ( 10.8%)
          HTTP Wordpress Scan ▏ 1502 █████████ (  8.3%)
       HTTP Crawl Non Statics ▏ 1012 ██████ (  5.6%)
             HTTP CVE Probing ▏  688 ████ (  3.8%)
@@ -56,12 +56,12 @@ HTTP Admin Interface Probing ▏ 2328 ██████████████
 🗺️ Top Source Countries
 ───────────────────────
 
- United States ▏ 5963 ███████████████████████████████████ ( 40.2%)
+ United States ▏ 5969 ███████████████████████████████████ ( 40.2%)
 United Kingdom ▏ 1811 ██████████ ( 12.2%)
        Ireland ▏ 1281 ███████ (  8.6%)
-   Netherlands ▏ 1263 ███████ (  8.5%)
+   Netherlands ▏ 1271 ███████ (  8.6%)
         France ▏ 1044 ██████ (  7.0%)
-     Singapore ▏  804 ████ (  5.4%)
+     Singapore ▏  805 ████ (  5.4%)
         Canada ▏  768 ████ (  5.2%)
          Japan ▏  727 ████ (  4.9%)
        Germany ▏  644 ███ (  4.3%)
@@ -74,14 +74,14 @@ United Kingdom ▏ 1811 ██████████ ( 12.2%)
 📅 Recent Activity (7 days)
 ──────────────────────────
 
-2026-07-06 ▏   14 ███████████████ (  8.4%)
-2026-07-07 ▏   21 ██████████████████████ ( 12.6%)
-2026-07-08 ▏   21 ██████████████████████ ( 12.6%)
+2026-07-07 ▏   19 ████████████████████ ( 11.4%)
+2026-07-08 ▏   21 ██████████████████████ ( 12.7%)
 2026-07-09 ▏   19 ████████████████████ ( 11.4%)
-2026-07-10 ▏   32 ███████████████████████████████████ ( 19.2%)
-2026-07-11 ▏   26 ████████████████████████████ ( 15.6%)
-2026-07-12 ▏   29 ███████████████████████████████ ( 17.4%)
-2026-07-13 ▏    5 █████ (  3.0%)
+2026-07-10 ▏   32 ███████████████████████████████████ ( 19.3%)
+2026-07-11 ▏   26 ████████████████████████████ ( 15.7%)
+2026-07-12 ▏   29 ███████████████████████████████ ( 17.5%)
+2026-07-13 ▏   17 ██████████████████ ( 10.2%)
+2026-07-14 ▏    3 ███ (  1.8%)
 ```
 
 ## 🔒 Security Notes
