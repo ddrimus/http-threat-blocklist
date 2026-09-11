@@ -4,7 +4,7 @@ This repository provides a **daily-updated blocklist** of IP addresses involved 
 
 [![Threat Level](https://img.shields.io/badge/Threat%20Level-HIGH-red)](.)
 [![IPs Blocked](https://img.shields.io/badge/IPs%20Blocked-342-blue)](.)
-[![Last Updated](https://img.shields.io/badge/Updated-2026--09--10-brightgreen)](.)
+[![Last Updated](https://img.shields.io/badge/Updated-2026--09--11-brightgreen)](.)
 
 ## 🔍 About This List
 
@@ -20,8 +20,8 @@ This is my **private blocklist**, built from traffic that actually made it throu
 +--------------------------------------+
 | Status: HIGH                         |
 | Active IPs: 342                      |
-| Total Reports: 19,952                |
-| Unique Sources: 5,261                |
+| Total Reports: 19,977                |
+| Unique Sources: 5,271                |
 +--------------------------------------+
 ```
 
@@ -33,17 +33,17 @@ This is my **private blocklist**, built from traffic that actually made it throu
 🔥 Most Common Attack Types
 ──────────────────────────
 
-                HTTP Probing ▏ 6018 ███████████████████████████████████ ( 30.4%)
-         HTTP Bad User Agent ▏ 3501 ████████████████████ ( 17.7%)
-HTTP Admin Interface Probing ▏ 2465 ██████████████ ( 12.5%)
-        HTTP Sensitive Files ▏ 2257 █████████████ ( 11.4%)
+                HTTP Probing ▏ 6024 ███████████████████████████████████ ( 30.4%)
+         HTTP Bad User Agent ▏ 3505 ████████████████████ ( 17.7%)
+HTTP Admin Interface Probing ▏ 2467 ██████████████ ( 12.4%)
+        HTTP Sensitive Files ▏ 2259 █████████████ ( 11.4%)
          HTTP Wordpress Scan ▏ 1526 ████████ (  7.7%)
       HTTP Crawl Non Statics ▏ 1096 ██████ (  5.5%)
-            HTTP CVE Probing ▏  799 ████ (  4.0%)
+            HTTP CVE Probing ▏  801 ████ (  4.0%)
      HTTP Backdoors Attempts ▏  687 ███ (  3.5%)
-       CVE-2017-9841 Exploit ▏  571 ███ (  2.9%)
-      CVE-2022-41082 Exploit ▏  235 █ (  1.2%)
-   CVE-2018-20062 (Thinkphp) ▏  234 █ (  1.2%)
+       CVE-2017-9841 Exploit ▏  575 ███ (  2.9%)
+   CVE-2018-20062 (Thinkphp) ▏  238 █ (  1.2%)
+      CVE-2022-41082 Exploit ▏  236 █ (  1.2%)
                  Netgear RCE ▏  164 █ (  0.8%)
        CVE-2021-26086 (Jira) ▏   95 █ (  0.5%)
  HTTP Path Traversal Probing ▏   87 █ (  0.4%)
@@ -56,12 +56,12 @@ HTTP Admin Interface Probing ▏ 2465 ██████████████
 🗺️ Top Source Countries
 ───────────────────────
 
- United States ▏ 6605 ███████████████████████████████████ ( 41.1%)
-United Kingdom ▏ 1849 █████████ ( 11.5%)
-   Netherlands ▏ 1489 ███████ (  9.3%)
+ United States ▏ 6616 ███████████████████████████████████ ( 41.1%)
+United Kingdom ▏ 1852 █████████ ( 11.5%)
+   Netherlands ▏ 1489 ███████ (  9.2%)
        Ireland ▏ 1281 ██████ (  8.0%)
-        France ▏ 1183 ██████ (  7.4%)
-     Singapore ▏  855 ████ (  5.3%)
+        France ▏ 1183 ██████ (  7.3%)
+     Singapore ▏  856 ████ (  5.3%)
         Canada ▏  783 ████ (  4.9%)
          Japan ▏  761 ████ (  4.7%)
        Germany ▏  707 ███ (  4.4%)
@@ -74,14 +74,13 @@ United Kingdom ▏ 1849 █████████ ( 11.5%)
 📅 Recent Activity (7 days)
 ──────────────────────────
 
-2026-09-03 ▏   81 ███████████████████████████████████ ( 25.0%)
-2026-09-04 ▏   36 ███████████████ ( 11.1%)
-2026-09-05 ▏   34 ██████████████ ( 10.5%)
-2026-09-06 ▏   45 ███████████████████ ( 13.9%)
-2026-09-07 ▏   57 ████████████████████████ ( 17.6%)
-2026-09-08 ▏   26 ███████████ (  8.0%)
-2026-09-09 ▏   39 ████████████████ ( 12.0%)
-2026-09-10 ▏    6 ██ (  1.9%)
+2026-09-04 ▏   33 ████████████████████ ( 12.5%)
+2026-09-05 ▏   34 ████████████████████ ( 12.8%)
+2026-09-06 ▏   45 ███████████████████████████ ( 17.0%)
+2026-09-07 ▏   57 ███████████████████████████████████ ( 21.5%)
+2026-09-08 ▏   26 ███████████████ (  9.8%)
+2026-09-09 ▏   39 ███████████████████████ ( 14.7%)
+2026-09-10 ▏   31 ███████████████████ ( 11.7%)
 ```
 
 ## 🔒 Security Notes
