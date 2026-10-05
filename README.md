@@ -4,7 +4,7 @@ This repository provides a **daily-updated blocklist** of IP addresses involved 
 
 [![Threat Level](https://img.shields.io/badge/Threat%20Level-MEDIUM-yellow)](.)
 [![IPs Blocked](https://img.shields.io/badge/IPs%20Blocked-399-blue)](.)
-[![Last Updated](https://img.shields.io/badge/Updated-2026--10--04-brightgreen)](.)
+[![Last Updated](https://img.shields.io/badge/Updated-2026--10--05-brightgreen)](.)
 
 ## 🔍 About This List
 
@@ -20,8 +20,8 @@ This is my **private blocklist**, built from traffic that actually made it throu
 +--------------------------------------+
 | Status: MEDIUM                       |
 | Active IPs: 399                      |
-| Total Reports: 21,075                |
-| Unique Sources: 5,516                |
+| Total Reports: 21,127                |
+| Unique Sources: 5,526                |
 +--------------------------------------+
 ```
 
@@ -33,20 +33,20 @@ This is my **private blocklist**, built from traffic that actually made it throu
 🔥 Most Common Attack Types
 ──────────────────────────
 
-                HTTP Probing ▏ 6338 ███████████████████████████████████ ( 30.3%)
-         HTTP Bad User Agent ▏ 3594 ███████████████████ ( 17.2%)
-HTTP Admin Interface Probing ▏ 2610 ██████████████ ( 12.5%)
-        HTTP Sensitive Files ▏ 2442 █████████████ ( 11.7%)
-         HTTP Wordpress Scan ▏ 1529 ████████ (  7.3%)
-      HTTP Crawl Non Statics ▏ 1195 ██████ (  5.7%)
-            HTTP CVE Probing ▏  864 ████ (  4.1%)
+                HTTP Probing ▏ 6353 ███████████████████████████████████ ( 30.3%)
+         HTTP Bad User Agent ▏ 3601 ███████████████████ ( 17.2%)
+HTTP Admin Interface Probing ▏ 2617 ██████████████ ( 12.5%)
+        HTTP Sensitive Files ▏ 2449 █████████████ ( 11.7%)
+         HTTP Wordpress Scan ▏ 1530 ████████ (  7.3%)
+      HTTP Crawl Non Statics ▏ 1198 ██████ (  5.7%)
+            HTTP CVE Probing ▏  867 ████ (  4.1%)
      HTTP Backdoors Attempts ▏  687 ███ (  3.3%)
-       CVE-2017-9841 Exploit ▏  652 ███ (  3.1%)
-   CVE-2018-20062 (Thinkphp) ▏  306 █ (  1.5%)
+       CVE-2017-9841 Exploit ▏  655 ███ (  3.1%)
+   CVE-2018-20062 (Thinkphp) ▏  309 █ (  1.5%)
       CVE-2022-41082 Exploit ▏  248 █ (  1.2%)
                  Netgear RCE ▏  171 █ (  0.8%)
- HTTP Path Traversal Probing ▏  105 █ (  0.5%)
-       CVE-2021-26086 (Jira) ▏  100 █ (  0.5%)
+ HTTP Path Traversal Probing ▏  106 █ (  0.5%)
+       CVE-2021-26086 (Jira) ▏  102 █ (  0.5%)
       CVE-2019-18935 Exploit ▏   65 █ (  0.3%)
 ```
 
@@ -56,16 +56,16 @@ HTTP Admin Interface Probing ▏ 2610 ██████████████
 🗺️ Top Source Countries
 ───────────────────────
 
- United States ▏ 6890 ███████████████████████████████████ ( 41.4%)
-United Kingdom ▏ 1880 █████████ ( 11.3%)
-   Netherlands ▏ 1558 ███████ (  9.4%)
+ United States ▏ 6906 ███████████████████████████████████ ( 41.4%)
+United Kingdom ▏ 1887 █████████ ( 11.3%)
+   Netherlands ▏ 1558 ███████ (  9.3%)
        Ireland ▏ 1282 ██████ (  7.7%)
         France ▏ 1206 ██████ (  7.2%)
-     Singapore ▏  960 ████ (  5.8%)
-        Canada ▏  787 ███ (  4.7%)
+     Singapore ▏  962 ████ (  5.8%)
+        Canada ▏  789 ███ (  4.7%)
          Japan ▏  766 ███ (  4.6%)
-       Germany ▏  731 ███ (  4.4%)
-      Bulgaria ▏  592 ███ (  3.6%)
+       Germany ▏  734 ███ (  4.4%)
+      Bulgaria ▏  595 ███ (  3.6%)
 ```
 
 ## 📊 Activity Timeline
@@ -74,14 +74,14 @@ United Kingdom ▏ 1880 █████████ ( 11.3%)
 📅 Recent Activity (7 days)
 ──────────────────────────
 
-2026-09-27 ▏   50 ███████████████████ ( 14.2%)
-2026-09-28 ▏   47 ██████████████████ ( 13.4%)
+2026-09-28 ▏   44 ████████████████ ( 12.6%)
 2026-09-29 ▏   62 ███████████████████████ ( 17.7%)
 2026-09-30 ▏   28 ██████████ (  8.0%)
-2026-10-01 ▏   91 ███████████████████████████████████ ( 25.9%)
-2026-10-02 ▏   50 ███████████████████ ( 14.2%)
+2026-10-01 ▏   91 ███████████████████████████████████ ( 26.0%)
+2026-10-02 ▏   50 ███████████████████ ( 14.3%)
 2026-10-03 ▏   21 ████████ (  6.0%)
-2026-10-04 ▏    2 █ (  0.6%)
+2026-10-04 ▏   48 ██████████████████ ( 13.7%)
+2026-10-05 ▏    6 ██ (  1.7%)
 ```
 
 ## 🔒 Security Notes
