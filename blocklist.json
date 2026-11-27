@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-26 02:00:00 UTC",
-  "total_ips": 356,
+  "generated": "2026-11-27 02:00:00 UTC",
+  "total_ips": 360,
   "entries": [
     {
       "ip": "101.200.216.59",
@@ -164,6 +164,21 @@
       ]
     },
     {
+      "ip": "104.155.92.41",
+      "first_seen": "2026-11-26 12:39:22",
+      "last_seen": "2026-11-26 12:39:44",
+      "report_count": 4,
+      "scenarios": [
+        "http-probing",
+        "http-admin-interface-probing",
+        "http-sensitive-files",
+        "http-crawl-non_statics"
+      ],
+      "countries": [
+        "BE"
+      ]
+    },
+    {
       "ip": "104.194.142.106",
       "first_seen": "2026-09-13 01:43:38",
       "last_seen": "2026-10-29 03:36:11",
@@ -212,19 +227,6 @@
       ],
       "countries": [
         "IN"
-      ]
-    },
-    {
-      "ip": "104.28.222.43",
-      "first_seen": "2026-09-01 08:46:50",
-      "last_seen": "2026-09-27 05:44:09",
-      "report_count": 8,
-      "scenarios": [
-        "http-sensitive-files",
-        "http-probing"
-      ],
-      "countries": [
-        "SG"
       ]
     },
     {
@@ -314,20 +316,6 @@
       ],
       "countries": [
         "US"
-      ]
-    },
-    {
-      "ip": "13.140.233.153",
-      "first_seen": "2026-10-27 13:30:05",
-      "last_seen": "2026-10-27 13:30:15",
-      "report_count": 3,
-      "scenarios": [
-        "thinkphp-cve-2018-20062",
-        "CVE-2017-9841",
-        "http-probing"
-      ],
-      "countries": [
-        "DE"
       ]
     },
     {
@@ -496,6 +484,18 @@
       ]
     },
     {
+      "ip": "138.68.143.68",
+      "first_seen": "2026-11-26 09:20:17",
+      "last_seen": "2026-11-26 09:20:17",
+      "report_count": 1,
+      "scenarios": [
+        "http-bad-user-agent"
+      ],
+      "countries": [
+        "GB"
+      ]
+    },
+    {
       "ip": "138.68.246.253",
       "first_seen": "2026-11-15 15:30:30",
       "last_seen": "2026-11-15 15:30:30",
@@ -517,6 +517,19 @@
       ],
       "countries": [
         "US"
+      ]
+    },
+    {
+      "ip": "139.59.232.123",
+      "first_seen": "2026-11-26 03:20:23",
+      "last_seen": "2026-11-26 03:27:24",
+      "report_count": 4,
+      "scenarios": [
+        "http-wordpress-scan",
+        "http-admin-interface-probing"
+      ],
+      "countries": [
+        "SG"
       ]
     },
     {
@@ -954,6 +967,18 @@
       ]
     },
     {
+      "ip": "167.94.146.48",
+      "first_seen": "2026-11-26 03:05:10",
+      "last_seen": "2026-11-26 03:05:10",
+      "report_count": 1,
+      "scenarios": [
+        "http-bad-user-agent"
+      ],
+      "countries": [
+        "US"
+      ]
+    },
+    {
       "ip": "167.94.146.49",
       "first_seen": "2026-11-21 18:57:31",
       "last_seen": "2026-11-21 18:57:31",
@@ -1156,6 +1181,22 @@
       ],
       "countries": [
         "US"
+      ]
+    },
+    {
+      "ip": "172.213.21.168",
+      "first_seen": "2026-11-26 08:06:00",
+      "last_seen": "2026-11-26 08:06:03",
+      "report_count": 5,
+      "scenarios": [
+        "http-probing",
+        "http-admin-interface-probing",
+        "http-backdoors-attempts",
+        "http-wordpress-scan",
+        "http-crawl-non_statics"
+      ],
+      "countries": [
+        "IT"
       ]
     },
     {
@@ -1418,6 +1459,23 @@
       ]
     },
     {
+      "ip": "185.177.72.9",
+      "first_seen": "2026-11-26 17:26:04",
+      "last_seen": "2026-11-26 17:26:18",
+      "report_count": 6,
+      "scenarios": [
+        "CVE-2017-9841",
+        "http-probing",
+        "http-admin-interface-probing",
+        "http-wordpress-scan",
+        "http-sensitive-files",
+        "http-crawl-non_statics"
+      ],
+      "countries": [
+        "FR"
+      ]
+    },
+    {
       "ip": "185.218.86.14",
       "first_seen": "2026-11-05 05:30:56",
       "last_seen": "2026-11-13 17:03:05",
@@ -1633,8 +1691,8 @@
     {
       "ip": "195.178.110.159",
       "first_seen": "2026-11-09 11:36:45",
-      "last_seen": "2026-11-12 11:39:05",
-      "report_count": 7,
+      "last_seen": "2026-11-26 07:51:45",
+      "report_count": 11,
       "scenarios": [
         "http-probing",
         "http-admin-interface-probing",
@@ -2038,19 +2096,6 @@
       ]
     },
     {
-      "ip": "216.180.246.132",
-      "first_seen": "2026-10-27 05:41:41",
-      "last_seen": "2026-10-27 13:57:08",
-      "report_count": 4,
-      "scenarios": [
-        "http-admin-interface-probing",
-        "http-probing"
-      ],
-      "countries": [
-        "US"
-      ]
-    },
-    {
       "ip": "216.180.246.157",
       "first_seen": "2026-11-04 14:34:00",
       "last_seen": "2026-11-04 14:34:01",
@@ -2194,6 +2239,19 @@
       ]
     },
     {
+      "ip": "216.180.246.63",
+      "first_seen": "2026-11-26 05:31:24",
+      "last_seen": "2026-11-26 05:31:24",
+      "report_count": 2,
+      "scenarios": [
+        "http-probing",
+        "http-admin-interface-probing"
+      ],
+      "countries": [
+        "US"
+      ]
+    },
+    {
       "ip": "216.36.112.159",
       "first_seen": "2026-10-20 21:46:08",
       "last_seen": "2026-11-05 00:28:53",
@@ -2302,6 +2360,18 @@
       ],
       "countries": [
         "NL"
+      ]
+    },
+    {
+      "ip": "34.118.252.112",
+      "first_seen": "2026-11-26 11:20:59",
+      "last_seen": "2026-11-26 11:20:59",
+      "report_count": 1,
+      "scenarios": [
+        "http-probing"
+      ],
+      "countries": [
+        "US"
       ]
     },
     {
@@ -3146,17 +3216,15 @@
       ]
     },
     {
-      "ip": "39.109.116.214",
-      "first_seen": "2026-09-07 00:22:22",
-      "last_seen": "2026-09-27 10:53:44",
-      "report_count": 5,
+      "ip": "37.60.238.151",
+      "first_seen": "2026-11-26 07:21:32",
+      "last_seen": "2026-11-26 07:21:32",
+      "report_count": 1,
       "scenarios": [
-        "thinkphp-cve-2018-20062",
-        "CVE-2017-9841",
         "http-probing"
       ],
       "countries": [
-        "HK"
+        "FR"
       ]
     },
     {
@@ -3196,9 +3264,9 @@
       ]
     },
     {
-      "ip": "40.124.116.107",
-      "first_seen": "2026-11-11 08:22:46",
-      "last_seen": "2026-11-11 08:22:46",
+      "ip": "40.124.179.77",
+      "first_seen": "2026-11-26 09:01:08",
+      "last_seen": "2026-11-26 09:01:08",
       "report_count": 1,
       "scenarios": [
         "http-cve-probing"
@@ -3229,20 +3297,6 @@
       ],
       "countries": [
         "US"
-      ]
-    },
-    {
-      "ip": "43.134.43.145",
-      "first_seen": "2026-10-27 12:21:06",
-      "last_seen": "2026-10-27 12:22:19",
-      "report_count": 3,
-      "scenarios": [
-        "http-sensitive-files",
-        "http-admin-interface-probing",
-        "http-probing"
-      ],
-      "countries": [
-        "SG"
       ]
     },
     {
@@ -3538,18 +3592,6 @@
       ]
     },
     {
-      "ip": "45.156.128.114",
-      "first_seen": "2026-11-11 22:42:25",
-      "last_seen": "2026-11-11 22:42:25",
-      "report_count": 1,
-      "scenarios": [
-        "CVE-2019-18935"
-      ],
-      "countries": [
-        "PT"
-      ]
-    },
-    {
       "ip": "45.156.128.164",
       "first_seen": "2026-11-16 02:19:27",
       "last_seen": "2026-11-16 02:19:27",
@@ -3831,6 +3873,19 @@
       ]
     },
     {
+      "ip": "62.210.142.169",
+      "first_seen": "2026-11-26 14:34:50",
+      "last_seen": "2026-11-26 14:34:50",
+      "report_count": 2,
+      "scenarios": [
+        "http-probing",
+        "http-admin-interface-probing"
+      ],
+      "countries": [
+        "FR"
+      ]
+    },
+    {
       "ip": "62.210.142.179",
       "first_seen": "2026-10-30 13:12:53",
       "last_seen": "2026-10-30 13:12:53",
@@ -3886,6 +3941,18 @@
       "ip": "66.132.159.123",
       "first_seen": "2026-11-13 20:20:49",
       "last_seen": "2026-11-13 20:20:49",
+      "report_count": 1,
+      "scenarios": [
+        "http-bad-user-agent"
+      ],
+      "countries": [
+        "US"
+      ]
+    },
+    {
+      "ip": "66.132.159.175",
+      "first_seen": "2026-11-26 02:53:11",
+      "last_seen": "2026-11-26 02:53:11",
       "report_count": 1,
       "scenarios": [
         "http-bad-user-agent"
@@ -4027,6 +4094,18 @@
       ]
     },
     {
+      "ip": "66.132.186.186",
+      "first_seen": "2026-11-27 01:30:03",
+      "last_seen": "2026-11-27 01:30:03",
+      "report_count": 1,
+      "scenarios": [
+        "http-bad-user-agent"
+      ],
+      "countries": [
+        "US"
+      ]
+    },
+    {
       "ip": "66.132.186.196",
       "first_seen": "2026-11-15 12:02:59",
       "last_seen": "2026-11-15 12:02:59",
@@ -4159,18 +4238,6 @@
       ]
     },
     {
-      "ip": "66.132.195.51",
-      "first_seen": "2026-11-11 10:49:11",
-      "last_seen": "2026-11-11 10:49:11",
-      "report_count": 1,
-      "scenarios": [
-        "http-bad-user-agent"
-      ],
-      "countries": [
-        "US"
-      ]
-    },
-    {
       "ip": "66.132.195.74",
       "first_seen": "2026-11-17 13:49:14",
       "last_seen": "2026-11-17 13:49:14",
@@ -4268,6 +4335,21 @@
       ]
     },
     {
+      "ip": "75.119.152.241",
+      "first_seen": "2026-11-26 03:32:21",
+      "last_seen": "2026-11-26 03:32:27",
+      "report_count": 4,
+      "scenarios": [
+        "http-probing",
+        "http-admin-interface-probing",
+        "http-sensitive-files",
+        "http-crawl-non_statics"
+      ],
+      "countries": [
+        "FR"
+      ]
+    },
+    {
       "ip": "77.112.251.10",
       "first_seen": "2026-11-22 08:09:27",
       "last_seen": "2026-11-22 08:09:44",
@@ -4296,35 +4378,9 @@
       ]
     },
     {
-      "ip": "77.90.185.244",
-      "first_seen": "2026-10-27 06:41:41",
-      "last_seen": "2026-10-27 06:41:41",
-      "report_count": 3,
-      "scenarios": [
-        "http-sensitive-files",
-        "http-admin-interface-probing",
-        "http-probing"
-      ],
-      "countries": [
-        "DE"
-      ]
-    },
-    {
       "ip": "77.91.71.91",
       "first_seen": "2026-11-14 15:19:33",
       "last_seen": "2026-11-14 15:19:33",
-      "report_count": 1,
-      "scenarios": [
-        "http-probing"
-      ],
-      "countries": [
-        "IL"
-      ]
-    },
-    {
-      "ip": "77.91.71.92",
-      "first_seen": "2026-11-11 19:46:44",
-      "last_seen": "2026-11-11 19:46:44",
       "report_count": 1,
       "scenarios": [
         "http-probing"
@@ -4767,11 +4823,12 @@
     {
       "ip": "93.123.109.214",
       "first_seen": "2026-11-03 03:55:08",
-      "last_seen": "2026-11-18 11:05:17",
-      "report_count": 4,
+      "last_seen": "2026-11-26 06:13:06",
+      "report_count": 7,
       "scenarios": [
         "http-probing",
-        "http-sensitive-files"
+        "http-sensitive-files",
+        "http-crawl-non_statics"
       ],
       "countries": [
         "BG"
